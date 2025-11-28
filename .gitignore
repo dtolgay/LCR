@@ -7,3 +7,5 @@ tmp/
 uv.lock
 lcr-env
 .venv
+.venv_LCR
+venv/
